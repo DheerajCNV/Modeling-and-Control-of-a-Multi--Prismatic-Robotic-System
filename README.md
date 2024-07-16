@@ -22,4 +22,7 @@ For performing impedance control, the user can give input for proportional and d
 
 **Graphical User Interface (GUI):**
 
-Grid layout, push buttons, table and edit numerical elements are used to generate the graphical user interface with functions and call back functions integrated into the script. The user can provide all the necessary input parameters using the easy-to-understand interface and access scripts to obtain the necessary plots.
+Grid layout, push buttons, table and edit numerical elements are used to generate the graphical user interface with functions and call-back functions integrated into the script. The user can provide all the necessary input parameters using the easy-to-understand interface and access scripts to obtain the necessary plots.
+
+
+**A detailed report of the project can be found at Final_Report.pdf**
