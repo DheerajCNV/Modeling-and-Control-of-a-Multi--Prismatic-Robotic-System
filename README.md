@@ -25,4 +25,9 @@ For performing impedance control, the user can give input for proportional and d
 Grid layout, push buttons, table and edit numerical elements are used to generate the graphical user interface with functions and call-back functions integrated into the script. The user can provide all the necessary input parameters using the easy-to-understand interface and access scripts to obtain the necessary plots.
 
 
-**A detailed report of the project can be found at [Final_Report.pdf]([url](https://github.com/DheerajCNV/Modeling-and-Control-of-a-Multi--Prismatic-Robotic-System/blob/main/Final_Report.pdf))**
+
+The code corresponding to part-1,2 & 3 of the project is available in the Project.m file in 3 sections, namely Joint Variable plots and Torque equations, Compliance control and Impedance Control. 
+
+The GUI can be accessed through the GUI.mlapp file in the repository. 
+
+**For any further information related to the project, a detailed report of the project can be found at Final_Report.pdf**
