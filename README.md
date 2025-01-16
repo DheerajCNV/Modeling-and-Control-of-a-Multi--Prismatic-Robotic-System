@@ -1,4 +1,4 @@
-# Modeling-and-Control-of-a-Multi--Prismatic-Robotic-System
+# Modeling-and-Control-of-a-Multi-Prismatic-Robotic-System
 This project was developed as a part of the MAE547 Modeling and Control of Robots Course. 
 
 In this project, we developed an n-prismatic links robotic system with indirect force control under compliance and impedance control.
